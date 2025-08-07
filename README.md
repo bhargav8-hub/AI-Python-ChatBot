@@ -57,9 +57,8 @@ Then visit [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
 ## 📸 Screenshot
 
-*(Add a screenshot of your chatbot UI here, if possible)*
+![Screenshot_7-8-2025_133853_127 0 0 1](https://github.com/user-attachments/assets/1854acbf-4ffe-4cbb-b6cf-44def4df959d)
 
----
 
 ## 👨‍💻 Author
 
