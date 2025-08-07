@@ -45,7 +45,10 @@ venv\Scripts\activate  # On Windows
 pip install -r requirements.txt
 ```
 
-### 4. Run the app
+### 4. 
+Replace YOUR_API_KEY with your actual key in .env
+
+### 5. Run the app
 
 ```bash
 python app.py
