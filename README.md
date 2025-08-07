@@ -6,21 +6,19 @@ A simple AI chatbot built using Python and Flask. It allows users to type messag
 
 ## 📁 Project Structure
 
+```
 AI-Python-ChatBot/
-├── app.py # Flask backend
-├── chatbot.py # Chatbot logic
+├── app.py                  # Flask backend
+├── chatbot.py              # Chatbot logic
 ├── templates/
-│ └── index.html # Frontend HTML
+│   └── index.html          # Frontend HTML
 ├── static/
-│ ├── style.css # CSS
-│ └── script.js # JS
-├── requirements.txt # Python dependencies
-├── .env # (Optional) for environment variables
-└── venv/ # Virtual environment (ignored by Git)
-
-yaml
-Copy
-Edit
+│   ├── style.css           # CSS
+│   └── script.js           # JS
+├── requirements.txt        # Python dependencies
+├── .env                    # (Optional) for environment variables
+└── venv/                   # Virtual environment (ignored by Git)
+```
 
 ---
 
@@ -31,32 +29,46 @@ Edit
 ```bash
 git clone https://github.com/bhargav8-hub/AI-Python-ChatBot.git
 cd AI-Python-ChatBot
-2. Set up virtual environment (recommended)
-bash
-Copy
-Edit
+```
+
+### 2. Set up virtual environment (recommended)
+
+```bash
 python -m venv venv
 venv\Scripts\activate  # On Windows
 # source venv/bin/activate  # On macOS/Linux
-3. Install dependencies
-bash
-Copy
-Edit
+```
+
+### 3. Install dependencies
+
+```bash
 pip install -r requirements.txt
-4. Run the app
-bash
-Copy
-Edit
+```
+
+### 4. Run the app
+
+```bash
 python app.py
-Then visit http://127.0.0.1:5000 in your browser.
+```
 
-📸 Screenshot
-(Add a screenshot of your chatbot UI here, if possible)
+Then visit [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
-👨‍💻 Author
-Bhargav Ade
-Computer Science (Data Science)
+---
+
+## 📸 Screenshot
+
+*(Add a screenshot of your chatbot UI here, if possible)*
+
+---
+
+## 👨‍💻 Author
+
+**Bhargav Ade**  
+Computer Science (Data Science)  
 Vishwakarma Institute of Technology
 
-📜 License
+---
+
+## 📜 License
+
 This project is licensed under the MIT License.
