@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ### 4. 
 Replace YOUR_API_KEY with your actual key in .env
-
+(use deepinfra api key)
 ### 5. Run the app
 
 ```bash
